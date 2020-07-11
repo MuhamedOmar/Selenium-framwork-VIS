@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="268114" started-at="2020-07-11T19:54:43Z" finished-at="2020-07-11T19:59:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="268114" started-at="2020-07-11T19:54:43Z" finished-at="2020-07-11T19:59:11Z">
+      <class name="Selenium_Assignment.Vis.TestRunner">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="openUrl" is-config="true" duration-ms="38478" started-at="2020-07-11T21:54:43Z" finished-at="2020-07-11T21:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="signup_scenario()[pri:1, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="signup_scenario" duration-ms="14106" started-at="2020-07-11T21:55:21Z" finished-at="2020-07-11T21:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup_scenario -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="closeSession" is-config="true" duration-ms="1325" started-at="2020-07-11T21:55:36Z" finished-at="2020-07-11T21:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="openUrl" is-config="true" duration-ms="36229" started-at="2020-07-11T21:55:37Z" finished-at="2020-07-11T21:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="login_scenario()[pri:2, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="login_scenario" duration-ms="7855" started-at="2020-07-11T21:56:13Z" finished-at="2020-07-11T21:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_scenario -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="closeSession" is-config="true" duration-ms="1253" started-at="2020-07-11T21:56:21Z" finished-at="2020-07-11T21:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="openUrl" is-config="true" duration-ms="46354" started-at="2020-07-11T21:56:22Z" finished-at="2020-07-11T21:57:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="checkout_scenario()[pri:3, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="checkout_scenario" duration-ms="54393" started-at="2020-07-11T21:57:09Z" finished-at="2020-07-11T21:58:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_scenario -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="closeSession" is-config="true" duration-ms="1292" started-at="2020-07-11T21:58:03Z" finished-at="2020-07-11T21:58:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="openUrl" is-config="true" duration-ms="46007" started-at="2020-07-11T21:58:04Z" finished-at="2020-07-11T21:58:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="order_history_scenario()[pri:4, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="order_history_scenario" duration-ms="19470" started-at="2020-07-11T21:58:50Z" finished-at="2020-07-11T21:59:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order_history_scenario -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:Selenium_Assignment.Vis.TestRunner@59ec2012]" name="closeSession" is-config="true" duration-ms="1266" started-at="2020-07-11T21:59:10Z" finished-at="2020-07-11T21:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- Selenium_Assignment.Vis.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
